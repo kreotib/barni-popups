@@ -239,6 +239,7 @@ html {
 .popup {
     position: absolute;
     width: 100%;
+    min-height: 100%;
     max-width: 160rem;
     box-sizing: border-box;
     background-color: #fff;
@@ -2980,6 +2981,7 @@ p strong[data-v-667b505a] {
     position: relative;
     display: block;
     width: 31%;
+    margin: auto;
     cursor: pointer
 }
 
