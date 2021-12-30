@@ -2922,11 +2922,15 @@ p strong[data-v-667b505a] {
 }
 
 .barni-logo .logo[data-v-5452c966] {
-    width: 7vw
+    max-width: 130px;
+    width: 7vw;
+    image-rendering: optimizequality;
+    image-rendering: -webkit-optimize-contrast;
 }
 
 @media only screen and (max-width:740px) {
     .barni-logo .logo[data-v-5452c966] {
+        max-width: 100px;
         width: 50vw
     }
 }
