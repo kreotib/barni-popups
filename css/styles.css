@@ -2922,7 +2922,7 @@ p strong[data-v-667b505a] {
 }
 
 .barni-logo .logo[data-v-5452c966] {
-    width: 10vw
+    width: 7vw
 }
 
 @media only screen and (max-width:740px) {
@@ -3051,7 +3051,8 @@ p strong[data-v-023fca80] {
     z-index: 1000;
     overflow-y: auto;
     box-sizing: border-box;
-    background: rgba(38, 128, 209, .9)
+    /*background: rgba(38, 128, 209, .9)*/
+    background: #54C8E8;
 }
 
 .close[data-v-56210fe2] {
