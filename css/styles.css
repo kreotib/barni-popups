@@ -3040,7 +3040,7 @@ p strong[data-v-667b505a] {
 .images-row>a>img[data-v-5452c966] {
     position: relative;
     width: 100%;
-    border-radius: 2vw;
+    border-radius: 1vw;
     box-shadow: 0 14px 28px rgba(7, 53, 146, .25), 0 10px 10px rgba(7, 53, 146, .22);
     transition: all .45s ease
 }
